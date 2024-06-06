@@ -30,7 +30,7 @@ public class Main {
         }
 
         //TASK 3
-        int year = 1900;
+        int year = 2000;
         if (year < 1584)
         {
             System.out.println(year + " год не является високосным.");
